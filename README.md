@@ -6,7 +6,7 @@
 ## Linear Regression to Predict MPG
 * Which variables provided a non-random amount of variance to the MPG in the data? The intercept, vehicle length and ground clearance provide non-random amount of variance to the MPG in the data as indicated by their low p-value.  
 * Is the slope of the linear model considered to be zero? Why or why not? The slope of the line is not considered to be zero indicated by the p-value:0.0000000000535. A p-value less than 0.05 is considered to be statistically significant which suggests that the slope is not zero.
-* Does the linear model predict MPG of the MechaCar prototypes effectively? Why or why not? Yes, the combination of our low p-value and r-squared value(.07149) would indicate that our linear model is a good predictor of MPG of the MechaCar prototypes. A low p-value indicates that results are able to be replicated. A high R(<sup>2</sup>) value means that the model fits the data. 
+* Does the linear model predict MPG of the MechaCar prototypes effectively? Why or why not? Yes, the combination of our low p-value and r-squared value(.07149) would indicate that our linear model is a good predictor of MPG of the MechaCar prototypes. A low p-value indicates that results are able to be replicated. A high R<sup>2</sup> value means that the model fits the data. 
 * ![deliverable1](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable1.png)
 
 ## Summary Statistics on Suspension Coils
