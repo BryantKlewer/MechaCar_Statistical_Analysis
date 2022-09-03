@@ -22,7 +22,9 @@
 * ![deliverable3_ttest_lot1](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_ttest_lot1.png)
 * The p-value for Lot2 is .6072, we cannot reject the null hypothesis. 
 * ![deliverable3_ttest_lot2](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_ttest_lot2.png)
-* The p-value for Lot3 is .04168, we can reject the null hypothesis and determine that there is a statistically significant difference in psi of the suspension coils.  * ![deliverable3_ttest_lot3](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_ttest_lot3.png)
+* The p-value for Lot3 is .04168, we can reject the null hypothesis and determine that there is a statistically significant difference in psi of the suspension coils.
+
+* ![deliverable3_ttest_lot3](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_ttest_lot3.png)
 
 ## Study Design: MechaCar vs Competition
 * Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
