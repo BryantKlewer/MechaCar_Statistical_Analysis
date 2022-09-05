@@ -16,20 +16,17 @@
 
 ## T-Tests on Suspension Coils
 
-* The cumulative p-value for the suspension coils is .4533, we cannot reject the null hypothesis. 
+* The cumulative p-value for the suspension coils is .4533. The cumulative lots fall within the confidence interval meaning that they are statistically similar and we cannot reject the null hypothesis. 
 * ![deliverable3_total_ttest](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_total_ttest.png)
-* The p-value for Lot1 is 1.0, we cannot reject the null hypothesis. 
+* The p-value for Lot1 is 1.0, the suspension coil are statistically similar and we cannot reject the null hypothesis. 
 * ![deliverable3_ttest_lot1](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_ttest_lot1.png)
-* The p-value for Lot2 is .6072, we cannot reject the null hypothesis. 
+* The p-value for Lot2 is .6072, the suspension coils are statistically similar and we cannot reject the null hypothesis. 
 * ![deliverable3_ttest_lot2](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_ttest_lot2.png)
-* The p-value for Lot3 is .04168, we can reject the null hypothesis and determine that there is a statistically significant difference in psi of the suspension coils.
+* The p-value for Lot3 is .04168. This lot of suspension coils falls outside the confidence interval meaning that we can reject the null hypothesis and determine that there is a statistically significant difference in psi of the suspension coils. Further analysis would need to be completed to determine the cause of the failure in this lot. 
 
 * ![deliverable3_ttest_lot3](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_ttest_lot3.png)
 
 ## Study Design: MechaCar vs Competition
 * Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-* In your description, address the following questions:
-1. What metric or metrics are you going to test?
-2. What is the null hypothesis or alternative hypothesis?
-3. What statistical test would you use to test the hypothesis? And why?
-4. What data is needed to run the statistical test?
+
+* A statistical study that could be used to compare the MechaCar to the competition would be Total Cost of Ownership (TCO). This would encompass both the up front cost of the vehicle and maintenance cost over a period of time. In order to complete this study, we would need to know the make(s) and model(s) of the competitors to the MechaCar, sales price(s) for the MechaCar and its competitor(s), the average maintenance cost of the MechaCar and its competitor(s). The null hypothesis is that there is no difference in the TCO. The alternative hypothesis is that there is a difference in TCO between the MechaCar and its competitor(s). For this study, we would utilize two-sample t-testing to compare the difference between the distribution means in order to see how the MechaCar ranks in TCO amongst its competitors.
