@@ -18,7 +18,7 @@
 
 * The cumulative p-value for the suspension coils is .4533. The cumulative lots fall within the confidence interval meaning that they are statistically similar and we cannot reject the null hypothesis. 
 * ![deliverable3_total_ttest](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_total_ttest.png)
-* The p-value for Lot1 is 1.0, the suspension coil are statistically similar and we cannot reject the null hypothesis. 
+* The p-value for Lot1 is 1.0, the suspension coils are statistically similar and we cannot reject the null hypothesis. 
 * ![deliverable3_ttest_lot1](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_ttest_lot1.png)
 * The p-value for Lot2 is .6072, the suspension coils are statistically similar and we cannot reject the null hypothesis. 
 * ![deliverable3_ttest_lot2](https://github.com/BryantKlewer/MechaCar_Statistical_Analysis/blob/main/Screen_Shots/deliverable3_ttest_lot2.png)
